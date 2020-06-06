@@ -5,7 +5,7 @@ To run the code:
 
 2) Make sure you download and import Adafruit library on raspberry pi and you can do this by writing the following command on cmd: 
 
-sudo pip3 Adafruits_DHT
+sudo pip3 Adafruit_DHT
 
 
 and now you can turn on the code 
